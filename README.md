@@ -1,6 +1,8 @@
 
 [![belltoy's GitHub stats](https://belltoy.net/github-stats/?username=belltoy&title_color=2F855A&show_icons=true&icon_color=2F855A&card_width=495px&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![belltoy's GitHub stats](https://belltoy.net/github-stats/top-langs?username=belltoy&title_color=2F855A&show_icons=true&icon_color=2F855A&card_width=495px&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belltoy)](https://github.com/anuraghazra/github-readme-stats)
 -->
