@@ -1,9 +1,4 @@
-<p align="center">
-![Stats](./profile/stats.svg)
-</p>
-<p align="center">
-![Top Languages](./profile/top-langs.svg)
-</p>
+<p align="center"> <img src="./profile/stats.svg" alt="Stats"/> <img src="./profile/top-langs.svg" alt="Top Languages"/></p>
 
 I'm a software engineer.
 
